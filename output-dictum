@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main(int argc,char** argv)
+{
+printf("不要失去信心，一切都会有结果的。——————钱学森\n");
+system("pause");
+return;
+
+}
