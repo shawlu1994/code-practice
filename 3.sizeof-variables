@@ -1,0 +1,12 @@
+#include<srtdio.h>
+#include<stdlib.h>
+int main(int argc,char** argv)
+{
+prinrf("sizeof:%d\n",sizeof(char));
+printf("sizeof:%d\n",sizeof(short));
+printf("sizeof:%d\n",sizeof(int));
+printf("sizeof:%d\n",sizeof(long int));
+system("pause");
+return 0;
+
+}
